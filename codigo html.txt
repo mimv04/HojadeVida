@@ -1,0 +1,66 @@
+  <img src="img/DSC_0058.JPG" alt="Maria Isabel" style="width:250px;height:250px;">
+    <h2>Datos Personales</h2>
+    <ul>
+        <li>Nombre completo: Maria Isabel Muriel Valencia </li>
+        <li>Fecha de Nacimiento: 05/Marzo/2002</li>
+        <li>País Expedición: Colombia</li>
+        <li>Departamento Expedición: Antioquia</li>
+        <li>Ciudad Expedición: Envigado</li>
+        <li>Celular: 3023565704</li>
+        <li>Edad: 18 años </li>
+        <li>Ocupación: Estudiante</li>
+
+    </ul>
+    <div>
+        <article>
+               <p>La tecnología en sistemas es una profesión capaz de abarcar muchos campos del conocimiento, siendo una
+                gran motivación y satisfacción para mi poder estudiarla, aplicarla y ejercer todos los conocimientos
+                adquiridos en el transcurso de estos dos años de mi tecnología.
+
+                Soy una persona creativa y dinámica, con una gran motivación de dar siempre lo mejor en todo aquello que
+                me propongo. Poseo habilidades para trabajar en equipo, tomando actitudes de escucha, proposición,
+                liderazgo y ejecución de responsabilidades que permitan la consecución de objetivos propuestos bien sea
+                en el ámbito personal o grupal.
+                Cuento con el manejo de herramientas tecnológicas que me permiten analizar propuestas y/o aplicar en
+                campo dada la circunstancia que se requiera en todo momento, teniendo la calidad, ética y la disciplina
+                como pilares fundamentales a la hora de ejecutar una tarea.
+                Me gusta leer, practicar deporte y compartir mis ratos libres con mi familia y amistades, procuro poder
+                adquirir experiencia laboral y continuar mis estudios, aspirando a un pregrado y posgrado a corto plazo.
+            </p>
+        </article>
+    </div>
+
+    <h3>Educación</h3>
+    <p>Basica</p>
+    <ul>
+        <li>Institución Educativa Normal Superior de Envigado</li>
+        <li>Bachiller Academica con Profundización en Pedagogía</li>
+        <li>Graduada en el año 2018</li>
+    </ul>
+    <img src="img/_DSC8155.jpg" alt="Graduación" style="width:200px;height:200px;">
+
+    <p>Superior</p>
+    <ul>
+        <li> Institución Universitaria de Envigado</li>
+        <li>Tecnóloga en Desarrollo de Sistemas de Información</li>
+        <li>Año de Inicio y fin:2019-1~ Cursando</li>
+        
+    </ul>
+    <img src="img/iue.png" alt="iue" style="width:200px;height:200px;">
+
+    <h4>Habilidades</h4>
+    <ol type="I">
+        <li>Microsoft Office:Dominio de Excel,Word,Power Point,Outlook </li>
+        <li>Comunicación interpersonal y trabajo en equipo</li>
+        <li>Ingles básico</li>
+        <li>Lenguajes de programación: Java, C#</li>
+    </ol>
+
+    <h5>Hobbys</h5>
+    <ol>
+        <li>Escuchar música en especial música pop en español</li>
+        <li>Viajar y conocer lugares nuevos</li>
+        <li>Pasar tiempo en familia y amigos es lo que más me gusta</li>
+        <li>Practicar patinaje y natación</li>
+        <li>Aprender cosas nuevas</li>
+    </ol>
